@@ -4,10 +4,12 @@
 
 Clarisse starter template contains everything you need to launch a blog.
 
-- Tag support
-- Mobile responsive layout
+- SEO-ready
+- Minimalist design with emphasis on Call-to-action
+- Tag/category support
+- Desktop and Mobile responsive layout
+- Customizable branding & navigation
 - Material-UI 
-
 ```
 # Create a new Gatsby project 
 gatsby new my-cool-blog https://github.com/tacogator/gatsby-starter-blog-material-clarisse
