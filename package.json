@@ -1,0 +1,38 @@
+{
+  "name": "@tacogator/gatsby-starter-blog-material-clarisse",
+  "private": false,
+  "description": "Gatsby minimalist blog starter site with material-ui",
+  "version": "0.1.0",
+  "author": "@tacogator",
+  "dependencies": {
+    "@tacogator/gatsby-theme-blog-material-clarisse": "^0.1.1",
+    "gatsby": "^2.21.13",
+    "gatsby-plugin-manifest": "^2.4.2",
+    "gatsby-plugin-sitemap": "^2.4.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "prettier": "2.0.5"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tacogator/gatsby-themes"
+  },
+  "bugs": {
+    "url": "https://github.com/tacogator/gatsby-themes/issues"
+  }
+}
